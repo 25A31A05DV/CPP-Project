@@ -1,0 +1,6 @@
+Description:
+This project is a simple Password Strength Checker developed using c++.It evaluates the strength of a password based on multiple factors like length,character types and common password patterns
+Ojective:
+1.To check hoe secure a password is
+2.To encourage users to create strong passwords
+3.To classify password as Weak,Moderate,Strong or Very Strong
